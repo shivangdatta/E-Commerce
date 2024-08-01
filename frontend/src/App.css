@@ -1,0 +1,26 @@
+.App {
+  /* Removed text-align: center; */
+}
+
+/* Removed App-logo styles */
+
+/* Removed App-header styles */
+
+.App-link {
+  color: #61dafb;
+}
+
+/* Kept the keyframes for potential future use */
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.product-image {
+  width: 100%;
+  height: auto;
+}
